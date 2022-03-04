@@ -16,3 +16,9 @@ Programming (mostly). I usually just think of a project that's too big for a sin
 A programming language, I want to name it Ghost. It is supposed to be as simple python but with as much features as c++. Still scratching my noggin on how I can make it, though.
 
 <sub>**Also I'm creating a chess engine. (But I hit a roadblock and I think I'm going to abandon it.)**</sub>
+
+## How can I contact you?
+Uhhh, don't.
+
+## What language do you use primarily?
+C++, C, Python, sometimes Java.
