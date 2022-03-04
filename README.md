@@ -1,7 +1,7 @@
 # Hi?...
 I'm J and since I kinda don't want to share my name online, I just typed a random character and just went with it (lol).
 
-In this repository, I will answer all questions you may have about me. So let's get on with it!
+In this repository, I will \*try to answer all questions you may have about me. So let's get on with it!
 
 ## **DOES THE J IN YOUR NAME MEAN ANYTHING?!?!?!.!.!**
 No.
