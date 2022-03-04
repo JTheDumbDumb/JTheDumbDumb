@@ -3,11 +3,11 @@ I'm J and since I kinda don't want to share my name online, I just typed a rando
 
 In this repository, I will \*try to answer all questions you may have about me. So let's get on with it!
 
-## **DOES THE J IN YOUR NAME MEAN ANYTHING?!?!?!.!.!**
+## **DOES THE J IN YOUR NAME EVEN MEAN ANYTHING?!?!?!.!.!**
 No.
 
 ## What do you do?
-Programming (mostly). I usually just think of a project that is too big for a single person and then I tried to implement it, found a problem, spent 2-4 hours trying to troubleshoot it and then I fail and give up the project, I guess.
+Programming (mostly). I usually just think of a project that's too big for a single person and then try to implement it, find a problem, spend 2-4 hours trying to troubleshoot it and then I fail and give up the project, I guess.
 
 ## Are you good at programmi-
 **No. I'm a dumb\*ss.**
