@@ -10,7 +10,7 @@ No.
 Programming (mostly). I usually just think of a project that's too big for a single person and then try to implement it, find a problem, spend 2-4 hours trying to troubleshoot it and then I fail and give up the project, I guess.
 
 ## Are you good at programmi-
-**No. I'm a dumb\*ss.**
+**No.**
 
 ## What are you working on right now?
 A programming language, I want to name it Ghost. It is supposed to be as simple python but with as much features as c++. Still scratching my noggin on how I can make it, though.
