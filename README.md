@@ -7,7 +7,7 @@ In this repository, I will \*try to answer all questions you may have about me. 
 No.
 
 ## What do you do?
-Programming (mostly). I usually just think of a project that's too big for a single person and then try to implement it, find a problem, spend 2-4 hours trying to troubleshoot it and then I fail and give up the project, I guess.
+Programming (mostly). I usually just think of a project that's too big for a single person and then try to implement it, find a problem, spend 2-4 hours trying to troubleshoot it and then fail and give up the project. That loop of torment goes forever until I actually finish a project and then take a break for a month. Miserable innit?
 
 ## Are you good at programmi-
 **No.**
@@ -18,7 +18,7 @@ A programming language, I want to name it Ghost. It is supposed to be as simple 
 <sub>**Also I'm creating a chess engine. (But I hit a roadblock and I think I'm going to abandon it.)**</sub>
 
 ## How can I contact you?
-Uhhh, don't.
+Uhhh, don't. I'm kinda busy since i have an exam coming up (yes).
 
 ## What language do you use primarily?
 C++, C, Python, sometimes Java.
