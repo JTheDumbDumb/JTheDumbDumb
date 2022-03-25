@@ -18,7 +18,7 @@ A programming language, I want to name it Ghost. It is supposed to be as simple 
 <sub>**Also I'm creating a chess engine. (But I hit a roadblock and I think I'm going to abandon it.)**</sub>
 
 ## How can I contact you?
-Uhhh, don't. I'm kinda busy since i have an exam coming up (yes).
+I'd love to chat with you via email (but your mail may not be replied since I don\'t have notifications on my email), or discord Yoshi Biden#0640.
 
 ## What language do you use primarily?
 C++, C, Python, sometimes Java.
