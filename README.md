@@ -15,7 +15,7 @@ Programming (mostly). I usually just think of a project that's too big for a sin
 ## What are you working on right now?
 1. A programming language, I want to name it Reapr. It is supposed to be simple but powerful. Still on progress, though. 
 2. A pokemon REST API (On planning stage), I've been making a lot of discord bots and I want to create my own REST API, I've always loved pokemon, so, I want to create an API where you can send the pokemon number to the API and it will send back a pokemon. (For example, 1 => bulbasaur.)
-
+3. My version of Robert Nystrom's jlox.
 <sub>**Also I'm creating a chess engine. (But I hit a roadblock and I think I'm going to abandon it.)**</sub>
 
 ## How can I contact you?
